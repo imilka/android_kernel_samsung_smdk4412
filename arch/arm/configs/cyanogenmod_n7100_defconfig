@@ -459,7 +459,7 @@ CONFIG_MACH_T0=y
 # CONFIG_MACH_IRON is not set
 # CONFIG_MACH_GRANDE is not set
 # CONFIG_MACH_BAFFIN is not set
-CONFIG_MIDAS_COMMON_BD=y
+# CONFIG_MIDAS_COMMON_BD is not set
 # CONFIG_P4NOTE_00_BD is not set
 # CONFIG_GC1_00_BD is not set
 # CONFIG_T0_00_BD is not set
